@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714825166541",
+    "project_id": "pris-d1e1c",
+    "storage_bucket": "pris-d1e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714825166541:android:9a9c3da33a50134c64c384",
+        "android_client_info": {
+          "package_name": "com.example.flutter_loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714825166541-d577beu9mcrlnbgaq4usk63fnsdvs5vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYsDFa6ZPUdCbGk09dARLGabFiGTP-ltk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714825166541-d577beu9mcrlnbgaq4usk63fnsdvs5vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
